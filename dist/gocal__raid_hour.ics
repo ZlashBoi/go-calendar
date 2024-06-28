@@ -10,24 +10,8 @@ X-WR-CALDESC:All Pokémon GO Raid Hour events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:raidhour20240626
-DTSTAMP:20240627T003712Z
-SUMMARY:[RH] Yveltal Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20240626/
-URL:https://leekduck.com/events/raidhour20240626/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART:20240626T180000
-DTEND:20240626T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[RH] Yveltal Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240703
-DTSTAMP:20240627T003712Z
+DTSTAMP:20240628T003724Z
 SUMMARY:[RH] Ho-Oh Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240703/
@@ -43,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240708
-DTSTAMP:20240627T003712Z
+DTSTAMP:20240628T003724Z
 SUMMARY:[RH] Guzzlord Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240708/
@@ -59,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240709
-DTSTAMP:20240627T003712Z
+DTSTAMP:20240628T003724Z
 SUMMARY:[RH] Nihilego Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240709/
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240710
-DTSTAMP:20240627T003712Z
+DTSTAMP:20240628T003724Z
 SUMMARY:[RH] Celesteela and Kartana Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240710/
@@ -91,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240711
-DTSTAMP:20240627T003712Z
+DTSTAMP:20240628T003724Z
 SUMMARY:[RH] Stakataka and Blacephalon Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240711/
@@ -107,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240712
-DTSTAMP:20240627T003712Z
+DTSTAMP:20240628T003724Z
 SUMMARY:[RH] Buzzwole\, Pheromosa\, and Xurkitree Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240712/
@@ -123,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240717
-DTSTAMP:20240627T003712Z
+DTSTAMP:20240628T003724Z
 SUMMARY:[RH] Articuno Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240717/
@@ -139,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240724
-DTSTAMP:20240627T003712Z
+DTSTAMP:20240628T003724Z
 SUMMARY:[RH] Incarnate Forme Tornadus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240724/
@@ -155,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240731
-DTSTAMP:20240627T003712Z
+DTSTAMP:20240628T003724Z
 SUMMARY:[RH] Incarnate Forme Tornadus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20240731/
